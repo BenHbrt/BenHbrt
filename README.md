@@ -1,5 +1,8 @@
 ## Languages and Tools
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+</p>
 <!--
 **BenHbrt/BenHbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
