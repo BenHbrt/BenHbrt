@@ -5,8 +5,7 @@ I'm an aspiring junior developer based in Prague. After over ten years working a
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-  <img src="hhtps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
-  <img src="JavaScript-logo.png" />
+  <img src="JavaScript-logo.png" alt="javascript" width="30" height="35"/>
     </p>
 <!--
 **BenHbrt/BenHbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
