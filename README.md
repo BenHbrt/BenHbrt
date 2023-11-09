@@ -1,4 +1,7 @@
-#Hello, I'm Ben, an aspiring junior web developer based in Prague.
+# Hello, I'm Ben.
+
+I'm an aspiring junior developer based in Prague. After over ten years working as a teacher, I decided to take the plunge and study full-stack web development at a coding bootcamp. After the bootcamp, I have coded some portfolio projects and worked on gaining both front-end and back-end certification from Meta on the Coursera platform.
+
 
 ## Languages and Tools
 
