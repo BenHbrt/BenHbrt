@@ -1,3 +1,5 @@
+#Hello, I'm Ben, an aspiring junior web developer based in Prague.
+
 ## Languages and Tools
 
 <p>
