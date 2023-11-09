@@ -6,6 +6,14 @@ I'm an aspiring junior developer based in Prague. After over ten years working a
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
   <img src="JavaScript-logo.png" alt="javascript" width="30" height="35"/>
+  <img src="CSS3.svg" alt="CSS3" width="30" height="35"/>
+  <img src="Sass.svg.png" alt="Sass" width="30" height="35"/>
+  <img src="HTML5.svg.png" alt="HTML5" width="30" height="35"/>
+  <img src="PHP.svg.png" alt="PHP" width="30" height="35"/>
+  <img src="Python.svg.png" alt="Python" width="30" height="35"/>
+  <img src="Django.svg.png" alt="Django" width="30" height="35"/>
+  <img src="Git.svg.png" alt="Git" width="30" height="35"/>
+  <img src="VSCode.svg.png" alt="VSCode" width="30" height="35"/>
     </p>
 <!--
 **BenHbrt/BenHbrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
